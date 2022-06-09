@@ -1,0 +1,41 @@
+body {
+  height: 10vh;
+  background: #ffffff;
+  color: black;
+  display: block;
+  font-family: "Tahoma", sans-serif;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+p1 {
+  height: 30vh;
+  background: #ffffff;
+  color: black;
+  display: block;
+  font-family: "Tahoma", sans-serif; 
+  font-size: 20px;
+  text-align: center; 
+
+}
+ 
+h1 {
+  height: 25vh;
+  background: #ffffff;
+  color: #349937;
+  font-family: "Garamond";
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 100px;
+}
+h2 {
+  height: 5vh;
+  background: #ffffff;
+  color: #349937;
+  font-family: "Garamond"; 
+  text-align: left;
+}
+
+div {height: 2vh;
+  background: #349937;
+}
