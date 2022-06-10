@@ -9,7 +9,7 @@ body {
 }
 
 p1 {
-  height: 30vh;
+  height: 10vh;
   background: #ffffff;
   color: #353635;
   display: block;
@@ -20,7 +20,7 @@ p1 {
 }
  
 h1 {
-  height: 25vh;
+  height: 15vh;
   background: #ffffff;
   color: #349937;
   font-family: "Garamond";
