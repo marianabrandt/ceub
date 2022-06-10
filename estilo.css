@@ -1,3 +1,8 @@
+.header {
+  padding: 20px;
+  text-align: center;
+}
+
 body {
   height: 30vh;
   background: #ffffff;
@@ -34,6 +39,19 @@ h2 {
   color: #349937;
   font-family: "Garamond"; 
   text-align: left;
+  
+  .column1 {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+  
+  .column2 {
+  float: left;
+  width: 100%;
+  padding: 5px;
+}
+  
 }
 .column {
   float: left;
@@ -46,3 +64,10 @@ h2 {
   display: table;
   clear: both;
 }
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
