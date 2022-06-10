@@ -35,7 +35,14 @@ h2 {
   font-family: "Garamond"; 
   text-align: left;
 }
+.column {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
 
-div {height: 2vh;
-  background: #349937;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
